@@ -9,5 +9,5 @@
 - 💬 Ask me about javascript and web and AI
 - 📫 How to reach me: kanana.shakira@gmail.com
 - 😄 Pronouns: she:)
-- ⚡ Fun fact: I might look okay but deep deep down I wish I have so much tech knowlege...like a walking tech zombie but welll 
+- ⚡ Fun fact: )
   

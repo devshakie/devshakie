@@ -6,7 +6,8 @@
 - 🤔 Seeking help with **NodeJS** as I navigate its complexities  
 
 ### 🌐 Socials:
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luckshakira-kanana-0733b923b)
+
 
 ### 💻 Tech Stack:
 JavaScript | ReactJS | NodeJS | MySQL | HTML/CSS | Figma

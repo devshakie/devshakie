@@ -1,13 +1,15 @@
-### Hi there 👋
+### 💫 About Me:
+👋 Hi, I’m Luckshakira Kanana  
+- 🔭 Currently focused on **ReactJS** and **NodeJS** for web development  
+- 🌱 Learning **full stack developmnt** and **QA/QE** 
+- 💞 Looking to collaborate on **JavaScript** projects and grow in the community  
+- 🤔 Seeking help with **NodeJS** as I navigate its complexities  
 
+### 🌐 Socials:
+[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
 
+### 💻 Tech Stack:
+JavaScript | ReactJS | NodeJS | MySQL | HTML/CSS | Figma
 
-- 🔭 I’m currently working on reactJs and nodeJs for web development.
-- 🌱 I’m currently learning AI career essentials nodeJs and some Django
-- 👯 I’m looking to collaborate on any javascript projects
-- 🤔 I’m looking for help with nodeJs...as a beginner its alott to process and grasp
-- 💬 Ask me about javascript and web and AI
-- 📫 How to reach me: kanana.shakira@gmail.com
-- 😄 Pronouns: she:)
-- ⚡ Fun fact: )
-  
+### ✍️ Random Dev Quote:
+“Code is like humor. When you have to explain it, it’s bad.”

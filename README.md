@@ -1,9 +1,9 @@
 ###  About Me:
 👋 Hi, I’m Luckshakira Kanana  
-- 🔭 Currently focused on **ReactJS** and **NodeJS** for web development  
-- 🌱 Learning **full stack developmnt** and **QA/QE** 
-- 💞 Looking to collaborate on **JavaScript** projects and grow in the community  
-- 🤔 Seeking help with **NodeJS** as I navigate its complexities  
+- 🔭 Am Currently focused on **ReactJS** and **NodeJS** for web development  
+- 🌱 and Learning **full stack development** and **QA/QE** 
+- 💞 Am looking to collaborate on **JavaScript** projects, grow in the community and network. 
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckshakira-kanana-0733b923b)

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Luckshakira Kanana!
 
-I’m a computer science student and an aspiring **Full Stack Developer** with a strong focus on **ReactJS** and **NodeJS** for building web applications. I’m driven by the desire to learn and grow in the tech industry, particularly in **QA/QE** and **JavaScript development**. I thrive on collaboration and open-source contributions, constantly looking for opportunities to expand my network and improve my skills.
+I’m driven by the desire to learn and grow in the tech industry, particularly in **QA/QE** and **JavaScript development**. I thrive on collaboration and open-source contributions, constantly looking for opportunities to expand my network and improve my skills.
 
 ## 🚀 About Me:
 - 🌱 Currently focused on **ReactJS** for frontend and **NodeJS** for backend development.
